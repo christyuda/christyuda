@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Modifying Multiple Squares
+- Press and hold the [CTRL] key ([CMD] key on Mac) and move your mouse cursor over the squares you wish to increase in intensity (darken)
+- Press and hold both the [CTRL] key ([CMD] key on Mac) and the [SHIFT] key, then move your mouse cursor over the squares you wish to decrease in intensity (lighten)
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
