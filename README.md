@@ -2,6 +2,7 @@
 
 
 **christyuda/christyuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Night Coding" width="50%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center"/>
 
 Here are some ideas to get you started:
 
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<img alt="Night Coding" width="50%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center"/>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
