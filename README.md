@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yudaa</h1>
+<h1 align="center">Hi 👋, I'm Yuda</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <div align="center">
   <div style="display: inline-block;">
@@ -23,7 +23,6 @@
       <li>💬 Ask me about <strong>Javascript</strong></li>
     </ul>
 </div>
-
 
 ---
 
