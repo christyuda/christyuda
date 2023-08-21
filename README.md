@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right"/>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
 </div>
