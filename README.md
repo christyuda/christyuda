@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuda</h1>
-<h3 align="center">FrontEnd From indonesia, Pecinta tampilan</h3>
+<h3 align="center">FrontEndDev Pecinta tampilan</h3>
 <div align="center">
   <div style="display: inline-block;">
     <img alt="Night Coding" width="50%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
